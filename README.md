@@ -1,6 +1,10 @@
 ## Table of contents
-*[Check whether Array is sorted or not] (#array)
-*Calculating average in array
+<ul>
+<li>Check whether Array is sorted or not</li>
+<li>Calculating average in array</li>
+</ul>
+*
+*
 *Benford Law checker
 *Celsius to Fahrenhiet converter 
 *Calculating CGPA out of 100
@@ -26,7 +30,8 @@
 *Reverse array
 *Rock Papar Scissors (Project)
 *Square of a number calculator 
-*Web url finder program)
+*Web url finder program
+
 
 ## General info
 These are the basic java programs.
