@@ -2,35 +2,32 @@
 <ul>
 <li>Check whether Array is sorted or not</li>
 <li>Calculating average in array</li>
-</ul>
-*
-*
-*Benford Law checker
-*Celsius to Fahrenhiet converter 
-*Calculating CGPA out of 100
-*Changing to Lower case
-*Circle Calaculator 
-*Day of week calculator 
-*Simple encrypt and decrypt 
-*Calculating Factorial with for loop
-*Simple Letter template
-*To find double or triple spaces
-*Simple greater or not checker
-*Simple greetings
-*Guess the number (project)
-*Kilometers to meters converter 
-*Leap year or not finder
-*Matrix add
-*Find Minimum in array 
-*Multiplication Table
-*Pattern programs
-*Rectangle Calculator 
-*Recursion Programs
-*Replace space with underscore program
-*Reverse array
-*Rock Papar Scissors (Project)
-*Square of a number calculator 
-*Web url finder program
+<li>Benford Law checker</li>
+<li>Celsius to Fahrenhiet converter </li>
+<li>Calculating CGPA out of 100</li>
+<li>Changing to Lower case</li>
+<li>Circle Calaculator </li>
+<li>Day of week calculator </li>
+<li>Simple encrypt and decrypt </li>
+<li>Calculating Factorial with for loop</li>
+<li>Simple Letter template</li>
+<li>To find double or triple spaces</li>
+<li>Simple greater or not checker</li>
+<li>Simple greetings</li>
+<li>Guess the number (project)</li>
+<li>Kilometers to meters converter </li>
+<li>Leap year or not finder</li>
+<li>Matrix add</li>
+<li>Find Minimum in array </li>
+<li>Multiplication Table</li>
+<li>Pattern programs</li>
+<li>Rectangle Calculator </li>
+<li>Recursion Programs</li>
+<li>Replace space with underscore program</li>
+<li>Reverse array</li>
+<li>Rock Papar Scissors (Project)</li>
+<li>Square of a number calculator </li>
+<li>Web url finder program</li>
 
 
 ## General info
