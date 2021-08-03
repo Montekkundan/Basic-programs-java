@@ -1,5 +1,5 @@
 ## Table of contents
-*[Check whether Array is sorted or not]
+*[Check whether Array is sorted or not] (#array)
 *Calculating average in array
 *Benford Law checker
 *Celsius to Fahrenhiet converter 
